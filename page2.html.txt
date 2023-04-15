@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>pesonal details</title>
+    </head>
+    <body>
+        <p>Interest and hobbies</p>
+        <ul>
+            <li>Programming</li>
+            <li>Designer</li>
+            <li>System developer</li>
+        </ul>
+
+        
+    </body>
+</html>
